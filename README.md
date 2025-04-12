@@ -1,4 +1,4 @@
-# AWS-based Intelligent Chatbot for Aviation Insights
+# Intelligent Chatbot for Aviation Insights
 
 This project presents an end-to-end solution for a cloud-based chatbot that can handle document-based and predictive queries. It was developed as part of a student competition focused on aviation data, with an emphasis on innovation, AI, and sustainability.
 
